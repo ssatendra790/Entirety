@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='p-2 md:p-5 flex flex-col md:flex-row items-center bg-slate-800 text-gray-200 font-sans text-sm md:text-base'>
+    <div className='p-2 md:p-5 flex flex-col md:flex-row items-center bg-slate-800 text-gray-200 font-sans text-sm md:text-base fixed top-0 w-full'>
 
       <div className='w-2/3 pl-20 text-green-500 text-3xl font-serif '>Entirety</div>
 
